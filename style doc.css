@@ -1,0 +1,25 @@
+body {
+  font-family: "Open Sans", helvetica, arial, sans-serif;
+  margin: 3vw;
+}
+
+h1 {
+  color: #4E92DF;
+}
+
+h2{
+  color:red;
+}
+
+p{
+  color:grey;
+}
+
+strong{
+  color:black;
+}
+
+.img{
+  width: 100vw;
+  
+}
